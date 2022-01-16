@@ -1,0 +1,20 @@
+{
+    "logo": "neno.png",
+    "preload": "preload.js",
+    "features": [
+        {
+            "code": "neno",
+            "explain": "输入neno笔记",
+            "cmds": [
+                "neno"
+            ]
+        },
+        {
+            "code": "clear neno setting",
+            "explain": "清除neno的配置",
+            "cmds": [
+                "clear neno setting"
+            ]
+        }
+    ]
+}
