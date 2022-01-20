@@ -219,7 +219,6 @@ function setGithubNenoRepo(repo) {
 }
 function setGithubUserName(userName) {
     utools.dbStorage.setItem('userName', userName)
-
 }
 function getGithubToken() {
     return utools.dbStorage.getItem('githubToken')
